@@ -1,4 +1,4 @@
-1. Install Required Libraries
+#1. Install Required Libraries
 You need to install these Python packages in your environment (preferably in a virtual environment):
 
 bash
